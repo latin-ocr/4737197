@@ -1,0 +1,4 @@
+A = Papyrus.
+B z: Babington.
+S = Schneidewin.
+
